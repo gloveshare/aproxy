@@ -1,5 +1,5 @@
 {
-  "name": "aproxy",
+  "name": "_worker",
   "version": "0.0.1",
   "description": "Cloudflare Workers Proxy",
   "author": "jonssonyan <https://jonssonyan.com>",
